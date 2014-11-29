@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+ <head>
+  <meta name="viewport" 
+    content="width=device-width, minimum-scale=1.0, initial-scale=1.0, user-scalable=yes">
+  <title>Cochleoid Graphics</title>
+
+  <script src="web-animations.min.js"></script>
+  <script src="bower_components/platform/platform.js"></script> 
+  <link rel="import" href="bower_components/polymer/polymer.html">
+  <link rel="import" href="PolyCochleoidScaleTubeOvals1Mod1.html">
+ </head>
+
+ <body unresolved>
+    <svg-graphics id="main" width="800" height="600"></svg-graphics>
+    <script>
+        var elem = document.querySelector('#main');
+        var player = elem.animate([
+            {opacity: 0.5, transform: "rotate(-225deg)"},
+            {opacity: 0.5, transform: "scale(0.5)"},
+            {opacity: 1.0, transform: "translate(300px,200px)"},
+            {opacity: 1.0, transform: "scale(1.5)"}
+        ], {
+            direction: 'alternate',
+            duration: 4000,
+            iterations: Infinity
+        });
+    </script>
+ </body>
+</html>
+
