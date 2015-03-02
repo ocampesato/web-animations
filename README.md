@@ -15,5 +15,7 @@ Launch any of the other HTML Web pages without an "Anim" or a "Poly" prefix to s
 
 In addition, AnimArchOvals1.html summarizes the animation-related code variations in this repository.
 
+The filenames with the prefix "Gestures" illustrate how to handle `mouseover` events in order to dynamically update various properties of the SVG-based graphics elements, which you can use as guidelines for handling other gestures.
+
 NB: these code samples are intended for entertainment, and they do not necessarily contain "best practices", nor are they intended for a production website.
 
