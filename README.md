@@ -29,6 +29,8 @@ In addition, launch any of the other HTML Web pages without an "Anim" or a "Poly
 
 Note: the Web page AnimArchOvals1.html summarizes the animation-related code variations that are used in the other code samples in this repository, and they might be useful for creating your own variations as well.
 
+Other Related Repositories
+==========================
 The following repository contains gesture-related code samples:
 ```
 https://github.com/ocampesato/web-animations-gestures
