@@ -6,10 +6,15 @@ As you can see, tthis repository contains a massive number of code samples (thin
 
 Set-up instructions
 ===================
-1) After downloading the code samples as well as installing bower on your machine, run this command: bower install
+1) After downloading the code samples as well as installing bower on your machine, run this command: 
+```
+bower install
+```
 The preceding command will install the dependencies for the code samples.
-2) Launch a local server (such as: python -m SimpleHTTPServer) in the directory with the code samples, launch a browser and navigate to http://localhost:8000 
-
+2) Launch a local server (such as: python -m SimpleHTTPServer) in the directory with the code samples, launch a browser and navigate to this URL:
+```
+http://localhost:8000 
+```
 Which Web pages do I launch?
 ============================
 The Web pages whose filename contains the string "Poly" contain Polymer-based code for generating SVG-based shapes, and they are always imported into another HTML Web page (containing Web Animation-based code) that you can launch in a browser via a local server described in the previous sentence. Simply launch any of the HTML Web pages with an "Anim" prefix to see animation effects. 
