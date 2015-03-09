@@ -6,12 +6,16 @@ As you can see, tthis repository contains a massive number of code samples (thin
 
 Set-up instructions
 ===================
-1) After downloading the code samples as well as installing bower on your machine, run this command: 
+After downloading the code samples as well as installing bower on your machine, run this command: 
 ```
 bower install
 ```
 The preceding command will install the dependencies for the code samples.
-2) Launch a local server (such as: python -m SimpleHTTPServer) in the directory with the code samples, launch a browser and navigate to this URL:
+Next, navigate to the directory with the code samples and launch a local server, such as a Python-based server, as shown here:
+```
+python -m SimpleHTTPServer
+```
+Now launch a browser and navigate to this URL:
 ```
 http://localhost:8000 
 ```
