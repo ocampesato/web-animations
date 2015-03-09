@@ -41,4 +41,4 @@ The following repository contains transforms that are applied to 2D shapes:
 ```
 https://github.com/ocampesato/web-animations-transforms
 ```
-NB: the code samples in all of the repositories are intended for solely for entertainment, which means that they do not necessarily contain "best practices", nor are they intended for a production website.
+NB: the code samples in all of the repositories are intended *solely* for entertainment, which means that they do not necessarily contain "best practices", nor are they intended for a production website.
