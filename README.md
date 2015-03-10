@@ -2,7 +2,11 @@ Creating Web Animation Effects
 ==============================
 This repository contains graphics and animation based on Web Animations, Polymer, and SVG that add animation effects to the Polymer and SVG code samples in the polymer-svg repository.
 
-As you can see, this repository contains a *massive* number of code samples (think "swatches"), with many similar variations, that illustrate how to create animation effects based on the Web Animation APIs. If you are a developer, you'll learn techniques for creating visual effects. If you are a designer, I am sure that you can easily update the color values in these code samples in order to create subtler and more aesthetically pleasing visual effects (and I would like to see your improvements!).
+As you can see, this repository contains a *massive* number of code samples (think "swatches"), with many similar variations, that illustrate how to create animation effects based on the Web Animation APIs. 
+
+If you are a developer: you'll learn coding techniques for creating various graphics effects based on polar equations. 
+
+If you are a designer: you can easily update the color values in these code samples in order to create subtler and more aesthetically pleasing visual effects (and I would like to see your improvements!).
 
 Set-up instructions
 ===================
