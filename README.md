@@ -45,4 +45,16 @@ The following repository contains transforms that are applied to 2D shapes:
 ```
 https://github.com/ocampesato/web-animations-transforms
 ```
+
+Other Graphics-based Repositories
+=================================
+The following repositories contains an assortment of graphics-related code samples:
+```
+https://github.com/ocampesato/css3-graphics
+https://github.com/ocampesato/jquery-css3-graphics
+https://github.com/ocampesato/polymer-svg-css3
+```
+
 NB: the code samples in all of the repositories are intended *solely* for entertainment, which means that they do not necessarily contain "best practices", nor are they intended for a production website.
+
+Enjoy!
