@@ -10,12 +10,12 @@ If you are a designer: you can easily update the color values in these code samp
 
 Set-up instructions
 ===================
-After downloading the code samples as well as installing bower on your machine, run this command: 
+After downloading the code samples as well as installing bower on your machine, navigate to the directory where you uncompressed the code samples and run this command: 
 ```
 bower install
 ```
 The preceding command will install the dependencies for the code samples.
-Next, navigate to the directory with the code samples and launch a local server, such as a Python-based server, as shown here:
+Next, from the same directory with the code samples, launch a local server such as the following example:
 ```
 python -m SimpleHTTPServer
 ```
