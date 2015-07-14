@@ -10,7 +10,7 @@ If you are a designer: you can easily update the color values in these code samp
 
 Set-up instructions
 ===================
-After downloading the code samples as well as installing bower on your machine, navigate to the directory where you uncompressed the code samples and run this command: 
+After downloading the code samples as well as installing `bower` on your machine, navigate to the directory where you uncompressed the code samples and run this command: 
 ```
 bower install
 ```
